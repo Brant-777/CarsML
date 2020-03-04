@@ -20,4 +20,10 @@ When using a machine learning model before inputting data it requires data clean
 
 Negative Correlation - When Y increases then feature X decreases and vice versa.
 Positive Correlation - When Y decrease then feature X increase and vice versa.
-(https://www.geeksforgeeks.org/mathematics-covariance-and-correlation/)
+
+
+## References:
+https://www.3blue1brown.com
+https://github.com/tensorflow/tfjs
+https://www.geeksforgeeks.org/mathematics-covariance-and-correlation/
+https://developers.google.com/machine-learning/crash-course
