@@ -9,9 +9,9 @@ CarsML is a machine learning project used to create a linear regression solution
 
 ## Preview
 
-[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture1.png)]
-[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture2.png)]
-[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture3.png)]
+[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture1.png)]]
+[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture2.png)]]
+[![CarsML Preview](https://raw.githubusercontent.com/brant-777/CarsML/master/img/Screencapture3.png)]]
 
 
 ## Key Takeaways - Machine Learning Model(Linear Regression)
