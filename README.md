@@ -24,6 +24,9 @@ Positive Correlation - When Y decrease then feature X increase and vice versa.
 
 ## References:
 https://www.3blue1brown.com
+
 https://github.com/tensorflow/tfjs
+
 https://www.geeksforgeeks.org/mathematics-covariance-and-correlation/
+
 https://developers.google.com/machine-learning/crash-course
