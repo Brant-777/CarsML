@@ -3,7 +3,7 @@
 ## Machine Learning Linear Regression Using Tensorflow.js
 
 ## About
-CarsML is a machine learning project used to create a linear regression solution to find the most accurate fit for the relationship between MPG and Weight of vehicles. In this example we use HTML, Tensorflow.js and Kaggle.json Data.
+CarsML is a machine learning project used to create a linear regression model to find the most accurate fit for the relationship between MPG and Weight of vehicles. In this example we use HTML, Tensorflow.js and Kaggle.json Data.
 
 
 ## Preview
